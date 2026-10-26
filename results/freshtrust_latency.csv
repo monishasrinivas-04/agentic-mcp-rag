@@ -1,0 +1,2 @@
+timestamp_utc,model,repository,query,selected_file,retrieval_seconds,generation_seconds,combined_stage_seconds,end_to_end_seconds,source_characters,prompt_tokens,generated_tokens,status
+2026-10-26T17:01:15.584377+00:00,Qwen/Qwen3-14B,monishasrinivas-04/agentic-sdlc-automation,How does the planning agent generate a project timeline?,agents/planning_agent.py,2.1845345980000275,0.0,2.1845345980000275,5.82682364199718,6881,1564,0,failed

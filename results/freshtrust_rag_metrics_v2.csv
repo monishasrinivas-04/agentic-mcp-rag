@@ -1,0 +1,7 @@
+timestamp_utc,repository,model,question,source_file,source_characters,chunks_created,chunks_retrieved,prompt_tokens,generated_tokens,mcp_retrieval_seconds,semantic_retrieval_seconds,generation_seconds,end_to_end_seconds,status
+2026-10-26T13:59:54.877346+00:00,monishasrinivas-04/agentic-sdlc-automation,Qwen/Qwen3-14B,Logger schema verification,agents/planning_agent.py,6800.0,8.0,3.0,694,180,2.074,0.042,21.78,23.896,test
+2026-10-26T14:07:22.904424+00:00,,,How does the planning agent generate a project timeline?,,,,,733,256,,,30.353,,
+2026-10-26T16:15:39.727858+00:00,monishasrinivas-04/agentic-sdlc-automation,Qwen/Qwen3-14B,Logger schema verification,agents/planning_agent.py,6800.0,8.0,3.0,694,180,2.074,0.042,21.78,23.896,test
+2026-10-26T16:16:24.413849+00:00,,,How does the planning agent generate a project timeline?,,,,,733,256,,,31.855,,
+2026-10-26T17:03:25.168457+00:00,monishasrinivas-04/agentic-sdlc-automation,Qwen/Qwen3-14B,Logger schema verification,agents/planning_agent.py,6800.0,8.0,3.0,694,180,2.074,0.042,21.78,23.896,test
+2026-10-26T17:04:13.216401+00:00,,,How does the planning agent generate a project timeline?,,,,,733,256,,,38.6,,
